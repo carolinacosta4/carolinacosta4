@@ -8,7 +8,7 @@ fields_of_interest:
   [
     "Web Development",
     "Machine Learning",
-    "Game Development",
+    "Mobile Development",
   ]
 currently_learning: ["PHP", "React"]
 2025 Goals: ["Learn new technologies."]
