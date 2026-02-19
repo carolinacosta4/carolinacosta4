@@ -10,8 +10,8 @@ fields_of_interest:
     "Machine Learning",
     "Mobile Development",
   ]
-currently_learning: ["PHP", "React"]
-2025 Goals: ["Learn new technologies."]
+currently_learning: ["PHP", "Angular"]
+2026 Goals: ["Learn new technologies."]
 hobbies: ["Gaming", "Watching Sports", "Cycling", "Watching Movies"]
 ```
 
